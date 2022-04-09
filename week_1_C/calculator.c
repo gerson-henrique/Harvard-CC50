@@ -7,7 +7,7 @@ int main(void)
   long second_number = get_long("Y: ");
   long sum = first_number + first_number;
   long subtraction = first_number - first_number;
-  printf("%i \n", sum );
-  printf("%i \n", subtraction );
+  printf("%li \n", sum );
+  printf("%li \n", subtraction );
 
 }
